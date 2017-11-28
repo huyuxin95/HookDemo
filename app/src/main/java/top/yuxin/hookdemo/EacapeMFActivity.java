@@ -18,6 +18,7 @@ public class EacapeMFActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(EacapeMFActivity.this,"click button",Toast.LENGTH_LONG).show();
+
             }
         });
 
